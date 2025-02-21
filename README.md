@@ -1,8 +1,9 @@
 <h1 align="center">Hi , I'm Abishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=30&font=georgia"></a>
 </p>
 <hr/>
+![my profile calendar](/profile.svg)
 <h4 align="center">Passionate developer skilled in React, TypeScript, Java, Kotlin, Python, C++, Flutter, HTML, CSS, and DevOps. Experienced in building scalable web and mobile apps, automating workflows, and designing intuitive UI/UX. Always eager to learn, innovate, and contribute to impactful projects while exploring the limitless possibilities of technology. Let’s code together!</h4>
 <br>
 ## 🔥Streak Stats
