@@ -3,10 +3,11 @@
  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=30&font=georgia"></a>
 </p>
 <hr/>
-![my profile calendar](/profile.svg)
 <h4 align="center">Passionate developer skilled in React, TypeScript, Java, Kotlin, Python, C++, Flutter, HTML, CSS, and DevOps. Experienced in building scalable web and mobile apps, automating workflows, and designing intuitive UI/UX. Always eager to learn, innovate, and contribute to impactful projects while exploring the limitless possibilities of technology. Let’s code together!</h4>
 <br>
 ## 🔥Streak Stats
+
+<img src="https://raw.githubusercontent.com/cbeAbishek/cbeAbishek/f9d37cf46e669778c01c9c03e86aa6bc77b172aa/profile.svg" alt="My SVG Image" width="1000" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cbeAbishek&show_icons=true&theme=tokyonight" alt="gitscoreboard" /> </p>
 <br>
 <p  align="center">
